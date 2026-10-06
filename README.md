@@ -9,7 +9,7 @@ of general biology. Only the deviation is learned, and `argmax u` names the entr
 supplies uncertainty, and active acquisition picks the next experiment.
 
 **Paper:** *A modular causal adaptation architecture for machine learning on data-scarce rare disease*,
-Nandini Gantayat. Women in Machine Learning (WiML) @ NeurIPS 2026, poster.
+Peer-reviewed and accepted as a poster at WiML @ NeurIPS 2026 Paris (reviewer scores: 5, 7, 8).
 
 ## Data
 
